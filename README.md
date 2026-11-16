@@ -1,3 +1,5 @@
+> **⚠️ This repository is superseded by https://github.com/GustavoVzla/solidity-smart-contracts**
+
 # Blockchain Web3 Smart Contract Projects
 
 This repository is a comprehensive collection of educational projects focused on **Advanced Smart Contract Development**, designed to learn and practice real-world blockchain applications. Each project demonstrates complete DeFi ecosystems, gaming systems, and marketplace implementations with modern Solidity practices and security features.
